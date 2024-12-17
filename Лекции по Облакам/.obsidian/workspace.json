@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекция №3 СХД.md",
+                "file": "Лекция №1. Данные и информация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекция №3 СХД"
+              "title": "Лекция №1. Данные и информация"
             }
           }
         ],
@@ -225,17 +225,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bad7b89018f816a9",
+  "active": "22cb0065e79dbd54",
   "lastOpenFiles": [
+    "Лекция №2. Системы хранения данных и Центр обработки данных.md",
     "Лекция №4 Центр обработки данных.md",
+    "Лекция №3 СХД.md",
     "images/lection1/Pasted image 20241217213334.png",
     "images/lection1/Pasted image 20241217212804.png",
-    "Лекция №2. Системы хранения данных и Центр обработки данных.md",
     "images/lection2/Pasted image 20241217221113.png",
     "images/lection2/Pasted image 20241217221252.png",
     "images/lection1",
     "images/lection2",
-    "Лекция №3 СХД.md",
     "Лекция №1. Данные и информация.md"
   ]
 }

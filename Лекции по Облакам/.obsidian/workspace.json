@@ -47,14 +47,12 @@
             "id": "5d6a49fe8ab3dc22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Лекция №2. Системы хранения данных и Центр обработки данных.md",
-                "mode": "source",
-                "source": false
+                "file": "images/lection2/Pasted image 20241217221113.png"
               },
-              "icon": "lucide-file",
-              "title": "Лекция №2. Системы хранения данных и Центр обработки данных"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241217221113"
             }
           },
           {
@@ -68,23 +66,9 @@
               "icon": "lucide-image",
               "title": "Pasted image 20241217212804"
             }
-          },
-          {
-            "id": "22cb0065e79dbd54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Лекция №1. Данные и информация.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция №1. Данные и информация"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,17 +209,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22cb0065e79dbd54",
+  "active": "768df6ec529e7676",
   "lastOpenFiles": [
+    "images/lection2/Pasted image 20241217221113.png",
+    "Лекция №1. Данные и информация.md",
+    "Лекция 9 Виртуализация сети.md",
+    "Лекция 8 Виртуализация хранения данных.md",
+    "Лекция 7 Виртуализация вычислений.md",
+    "Лекция 6 Резервное копирование и восстановление данных.md",
+    "Лекция 5 Непрерывность бизнес-процесса.md",
+    "Лекция 4 Центр обработки данных.md",
+    "Лекция 3 СХД.md",
+    "Лекция 2 Системы хранения данных и Центр обработки данных.md",
+    "Лекция 16 Переход к облаку.md",
+    "Лекция 15 Обеспечание безопасности в облаке.md",
+    "Лекция 14 Безопасность в облаке.md",
+    "Лекция 13 Управление облаком.md",
+    "Лекция 12 Дополнительные сервисы.md",
+    "Лекция 11 Cloud computing.md",
+    "Лекция 10 Переход от VDC к Cloud.md",
+    "Лекция 1 Данные и информация.md",
+    "images/lecture9/slide_4_image_1.png",
+    "images/lecture9/slide_2_image_4.png",
+    "images/lecture9/slide_2_image_3.png",
+    "images/lecture9/slide_2_image_2.png",
+    "images/lecture9/slide_2_image_1.png",
+    "images/lecture9/slide_24_image_1.png",
+    "images/lecture9/slide_23_image_1.png",
+    "images/lecture9/slide_22_image_1.png",
+    "images/lecture9/slide_21_image_1.png",
+    "images/lecture9/slide_20_image_1.png",
+    "images/lecture9",
+    "images/lecture8",
+    "images/lecture7",
+    "images/lecture6",
+    "images/lecture5",
+    "images/lecture16",
+    "images/lecture15",
+    "images/lecture14",
+    "images/lecture13",
+    "images/lecture11",
     "Лекция №2. Системы хранения данных и Центр обработки данных.md",
     "Лекция №4 Центр обработки данных.md",
-    "Лекция №3 СХД.md",
-    "images/lection1/Pasted image 20241217213334.png",
-    "images/lection1/Pasted image 20241217212804.png",
-    "images/lection2/Pasted image 20241217221113.png",
-    "images/lection2/Pasted image 20241217221252.png",
-    "images/lection1",
-    "images/lection2",
-    "Лекция №1. Данные и информация.md"
+    "Лекция №3 СХД.md"
   ]
 }
